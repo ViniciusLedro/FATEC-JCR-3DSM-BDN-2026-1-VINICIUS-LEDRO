@@ -2,7 +2,7 @@
 
 ## Aluno
 - **Nome:** Vinicius de Oliveira Lêdro
-- **LinkedIn:** [seu perfil]
+- **LinkedIn:** [Vinicius de Oliveira](https://www.linkedin.com/in/vinicius-ledro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - **GitHub:** [ViniciusLedro](https://github.com/ViniciusLedro)
 
 ---
